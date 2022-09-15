@@ -28,4 +28,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpra1010&label=Profile%20views&color=000000&style=flat" alt="yashpra1010" /> </p>
 
 
-<a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="#" width="40" height="40"/> </a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="#" width="40" height="40"/> </a> -->
