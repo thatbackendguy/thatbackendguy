@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
-<h3 align="center">A Machine Learning & Big Data enthusiast</h3><br>
-
-- 🔭 I’m currently working on developing a utility for strong password generator using Neural Networks
+<h3 align="center">An Analyst & Big Data enthusiast</h3><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashpra1010](https://github.com/yashpra1010)
 
