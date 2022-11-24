@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashpra1010](https://github.com/yashpra1010)
 
-- 💬 Ask me about Python, Web-Development, Big Data
+- 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
 - 📫 How to reach me **workwidyash@gmail.com**
 
