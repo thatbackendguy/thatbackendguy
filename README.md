@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **workwidyash@gmail.com**
 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=dracula&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpra1010&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br><h3 align="left">Connect with me:</h3>
 
