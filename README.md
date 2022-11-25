@@ -8,7 +8,7 @@
 - 📫 How to reach me **workwidyash@gmail.com**
 
 <br>
-[Yash Prajapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=dracula&show_icons=true&count_private=true)
+[![Yash Prajapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=dracula&show_icons=true&count_private=true)]
 <br>
 <br><h3 align="left">Connect with me:</h3>
 
