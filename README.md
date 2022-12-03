@@ -6,9 +6,9 @@
 - 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
 - 📫 How to reach me **workwidyash@gmail.com**
-
+<a href="https://github.com/yashpra1010">
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=transparent&show_icons=true&count_private=true)
-
+</a>
 <br><h3 align="left">Connect with me:</h3>
 - [https://linktr.ee/yashpra1010](https://linktr.ee/yashpra1010)
 <p align="left">
