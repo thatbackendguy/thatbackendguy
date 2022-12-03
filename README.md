@@ -6,11 +6,11 @@
 - 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
 - 📫 How to reach me **workwidyash@gmail.com**
-<a href="https://github.com/yashpra1010">
+
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=transparent&show_icons=true&count_private=true)
-</a>
+
 <br><h3 align="left">Connect with me:</h3>
-- [https://linktr.ee/yashpra1010](https://linktr.ee/yashpra1010)
+[https://linktr.ee/yashpra1010](https://linktr.ee/yashpra1010)
 <p align="left">
 <a href="https://twitter.com/YashDemonZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YashDemonZ" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19991131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19991131" height="30" width="40" /></a>
