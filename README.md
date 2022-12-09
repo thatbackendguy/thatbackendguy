@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
 <h3 align="center">An Analyst & Big Data enthusiast</h3><br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashpra1010](https://github.com/yashpra1010)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/yashpra1010)
 
 - 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
-- 📫 How to reach me **workwidyash@gmail.com**
+- 📫 How to reach me [**workwidyash@gmail.com**](mailto:workwidyash@gmail.com)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yzM3oW89MwH5SQTLWYZ5imKioWjhTsSn/view?usp=share_link)
 
