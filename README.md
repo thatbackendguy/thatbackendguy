@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
 <h3 align="center">An Analyst & Big Data enthusiast</h3><br>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/yashpra1010)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/yashpra1010?tab=repositories)
 
 - 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
