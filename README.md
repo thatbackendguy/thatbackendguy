@@ -5,6 +5,8 @@
 
 - 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
 
+- 😀 Checkout my [**Linkedin**](https://www.linkedin.com/in/yashpra1010).
+
 - 📫 How to reach me [**workwidyash@gmail.com**](mailto:workwidyash@gmail.com)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yzM3oW89MwH5SQTLWYZ5imKioWjhTsSn/view?usp=share_link)
