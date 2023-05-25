@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [**workwidyash@gmail.com**](mailto:workwidyash@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yzM3oW89MwH5SQTLWYZ5imKioWjhTsSn/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1FmI21a5lm54vaVmRgToQQJfYnkML21gK/view?usp=share_link)
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=transparent&show_icons=true&count_private=true)
 
