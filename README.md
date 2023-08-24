@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
-<h3 align="center">Web Developer (MERN) & Data Analyst </h3><br>
+<h3 align="center">Web Developer (MERN) & Data Analyst </h3><br>  
 - 🌱 I’m currently learning MERN
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yashpra1010?tab=repositories)
