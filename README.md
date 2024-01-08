@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1FmI21a5lm54vaVmRgToQQJfYnkML21gK/view?usp=share_link)
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpra1010&theme=transparent&show_icons=true&count_private=true)
-
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashpexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashdemonz" height="30" width="40" /></a>
