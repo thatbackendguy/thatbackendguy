@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**workwidyash@gmail.com**](mailto:workwidyash@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1FmI21a5lm54vaVmRgToQQJfYnkML21gK/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/14SsSUN3HJZN0MPXeiE_k9zwcVgvn_6TT/view?usp=sharing)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
