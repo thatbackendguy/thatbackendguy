@@ -9,7 +9,7 @@
 
 - 😀 Checkout my [**Linkedin**](https://www.linkedin.com/in/yashpra1010).
 
-- 📫 How to reach me [**yashpra1010@gmail.com**](mailto:yashpra1010@gmail.com)
+- 📫 How to reach me [**yash@thatbackendguy.com**](mailto:yash@thatbackendguy.com)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/14SsSUN3HJZN0MPXeiE_k9zwcVgvn_6TT/view?usp=sharing)
 
