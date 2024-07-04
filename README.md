@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**yash@thatbackendguy.com**](mailto:yash@thatbackendguy.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Cg6GEYadRx0TKwzSkje2Rbhc2lSw4Sbz/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1hMazn8kTudsIOP6LFEeE8gmMucK6BMYr/view?usp=sharing)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
