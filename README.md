@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
 <h3 align="center">Software Developer </h3><br>  
 
-- 🌱 I’m currently learning AI & Machine Learning 
+- 🌱 I’m currently learning Machine Learning & Deep Learning
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/thatbackendguy?tab=repositories)
 
