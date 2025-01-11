@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
 <h3 align="center">Software Developer </h3><br>  
 
-- 🌱 I’m currently learning Spring Boot - Java & Golang
+- 🌱 I’m currently learning AI & Machine Learning 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/thatbackendguy?tab=repositories)
 
-- 💬 Ask me about Data Science, Web-Development, Big Data or anything about Computers
+- 💬 Ask me about Data Science, AI-ML, Web-Development, Big Data or anything about Computers
 
 - 😀 Checkout my [**Linkedin**](https://www.linkedin.com/in/yashpra1010).
 
