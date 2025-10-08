@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Yash Prajapati</h1>
+<h1 align="center">Hi 👋🏻, I'm Yash</h1>
 <h3 align="center">Software Developer </h3><br>  
 
 - 🌱 I’m currently learning Machine Learning & Deep Learning
