@@ -68,7 +68,7 @@ I'm a Data Scientist and ML Engineer currently pursuing my **M.Sc. in Data Scien
 ### 🧬 One-Shot Facial Recognition · [GitHub](https://github.com/thatbackendguy)
 CNN-based **Siamese Network** achieving **98% accuracy** using contrastive loss training and data augmentation. Reduced training time by ~17% via an optimized TensorFlow + OpenCV pipeline.
 
-### 🌫️ Network Monitoring System · [Github-1](https://github.com/thatbackendguy/network-monitoring-system) [Github-2](https://github.com/thatbackendguy/nms-lite)
+### 🛜 Network Monitoring System · [Github-1](https://github.com/thatbackendguy/network-monitoring-system) [Github-2](https://github.com/thatbackendguy/nms-lite)
 A real-time **Network Monitoring System** built with **Java (Vert.x)** and **Golang**, capable of tracking 1,000+ devices simultaneously.
 Uses **Apache Kafka** and **ZeroMQ** for async event-driven messaging — achieving ~28% latency reduction and 42% higher monitoring capacity.
 
