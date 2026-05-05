@@ -68,10 +68,11 @@ I'm a Data Scientist and ML Engineer currently pursuing my **M.Sc. in Data Scien
 ### 🧬 One-Shot Facial Recognition · [GitHub](https://github.com/thatbackendguy)
 CNN-based **Siamese Network** achieving **98% accuracy** using contrastive loss training and data augmentation. Reduced training time by ~17% via an optimized TensorFlow + OpenCV pipeline.
 
-### 🌫️ Air Quality CO Prediction
-End-to-end regression pipeline on the **UCI Air Quality Dataset** using Linear Regression and Random Forest. Includes lag/rolling features, IQR clipping, chronological train-test splits, and MLflow experiment tracking.
+### 🌫️ Network Monitoring System · [Github-1](https://github.com/thatbackendguy/network-monitoring-system) [Github-2](https://github.com/thatbackendguy/nms-lite)
+A real-time **Network Monitoring System** built with **Java (Vert.x)** and **Golang**, capable of tracking 1,000+ devices simultaneously.
+Uses **Apache Kafka** and **ZeroMQ** for async event-driven messaging — achieving ~28% latency reduction and 42% higher monitoring capacity.
 
-### 🧠 Mental Health Prediction from Personality Traits
+### 🧠 Mental Health Prediction from Personality Traits · [Kaggle](https://www.kaggle.com/code/yashpra1010/predicting-das-based-on-personality)
 Multi-target classification (CART + SVM) predicting anxiety (**86%**), depression (**75%**), and stress (**67%**) — improved ~15% through k-fold cross-validation and feature correlation analysis.
 
 ### 💻 CodeCraftPro — Collaborative Coding Environment · [GitHub](https://github.com/thatbackendguy)
